@@ -6,6 +6,11 @@ Dataset obtained from [Kaggle](https://www.kaggle.com/prasadperera/the-boston-ho
 
 
 ## Results
+The dynamics of the loss function (mse) are as folowing:
+
+<p align="center">
+  <img src="https://github.com/luis-a-miranda/AI-Boston-Housing-Price/blob/main/train_val_error.png">
+ </p>
 
 When implementing the model on the test dataset, the model's score is RMSE = 3.848. 
 
