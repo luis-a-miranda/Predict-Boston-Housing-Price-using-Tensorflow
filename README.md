@@ -1,3 +1,3 @@
 # AI-Boston-Housing-Price
 
-[Dataset URL](https://www.kaggle.com/prasadperera/the-boston-housing-dataset/data?select=housing.csv) obtained from Kaggle and this project is based on work from the [MIT Deep Learning](https://deeplearning.mit.edu) course.
+Dataset obtained from [Kaggle](https://www.kaggle.com/prasadperera/the-boston-housing-dataset/data?select=housing.csv) or [Keras sample datasets](https://storage.googleapis.com/tensorflow/tf-keras-datasets/boston_housing.npz) and this project is based onthe content from the [MIT Deep Learning](https://deeplearning.mit.edu) course.
