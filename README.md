@@ -1,5 +1,7 @@
 # AI-Boston-Housing-Price
 
+The goal of this project is to build a regression model that outputs a single price value (median value of owner-occupied homes per $1000).
+
 Dataset obtained from [Kaggle](https://www.kaggle.com/prasadperera/the-boston-housing-dataset/data?select=housing.csv) or [Keras sample datasets](https://storage.googleapis.com/tensorflow/tf-keras-datasets/boston_housing.npz) 
 
 
