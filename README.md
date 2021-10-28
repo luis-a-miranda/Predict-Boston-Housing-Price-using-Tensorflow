@@ -1,4 +1,4 @@
-# AI-Boston-Housing-Price
+# Predicting Boston Housing Price
 
 The goal of this project is to build a regression model that outputs a single price value (median value of owner-occupied homes per $1000).
 
