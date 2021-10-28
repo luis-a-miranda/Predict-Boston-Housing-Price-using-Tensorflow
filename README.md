@@ -9,7 +9,7 @@ When implementing the model on the test dataset, the model's score is RMSE = 3.8
 
 This result corresponds to a 19th position on the [Kaggle leaderboard](https://www.kaggle.com/c/boston-housing/leaderboard).
 
-![alt text](https://github.com/luis-a-miranda/AI-Boston-Housing-Price/blob/main/kaggle_leaderboard.PNG)
+<img src="https://github.com/luis-a-miranda/AI-Boston-Housing-Price/blob/main/kaggle_leaderboard.PNG" width="300" height="300">
 
 ## Acknowledgements
 This project is based on the content from the [MIT Deep Learning](https://deeplearning.mit.edu) course.
