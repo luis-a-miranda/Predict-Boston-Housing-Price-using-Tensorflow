@@ -1,9 +1,13 @@
 # Predicting Boston Housing Price
 
-The goal of this project is to build a regression model that outputs a single price value (median value of owner-occupied homes per $1000).
+This project aims to develop a regression model that can predict the median value of owner-occupied homes per $1000 in Boston.
 
-Dataset obtained from [Kaggle](https://www.kaggle.com/prasadperera/the-boston-housing-dataset/data?select=housing.csv) or [Keras sample datasets](https://storage.googleapis.com/tensorflow/tf-keras-datasets/boston_housing.npz) 
+## Key Features
 
+1. Regression model: Build a machine learning model capable of predicting housing prices based on relevant features.
+2. Evaluation metric: Measure the performance of the model using the root mean squared error (RMSE).
+
+Dataset: [Keras sample datasets](https://storage.googleapis.com/tensorflow/tf-keras-datasets/boston_housing.npz) 
 
 ## Results
 The dynamics of the loss function (mse) are as following:
