@@ -10,15 +10,13 @@ This project aims to develop a regression model that can predict the median valu
 Dataset: [Keras sample datasets](https://storage.googleapis.com/tensorflow/tf-keras-datasets/boston_housing.npz) 
 
 ## Results
-The dynamics of the loss function (mse) are as following:
+The dynamics of the loss function (MSE) are as following:
 
 <p align="center">
   <img src="https://github.com/luis-a-miranda/AI-Boston-Housing-Price/blob/main/train_val_error.png">
  </p>
 
-When implementing the model on the test dataset, the model's score is RMSE = 3.848. 
-
-This result corresponds to a 19th position on the [Kaggle leaderboard](https://www.kaggle.com/c/boston-housing/leaderboard).
+When applied to the test dataset, the model achieved an RMSE score of 3.848. The model's performance ranked 19th on the [Kaggle leaderboard](https://www.kaggle.com/c/boston-housing/leaderboard) for the Boston Housing competition.
 
 <p align="center">
   <img src="https://github.com/luis-a-miranda/AI-Boston-Housing-Price/blob/main/kaggle_leaderboard.PNG" width="500" height="300">
